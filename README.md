@@ -1,4 +1,4 @@
-# Backend-Engineering-LYFT
+# Backend-Engineer-LYFT
 This repo contains the codebase of the tasks included in the virtual experience program of Forage.
 
 ## Task 1: Come up with a clean design for an existing, unfinished component
